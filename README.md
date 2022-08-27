@@ -2,7 +2,6 @@
 
 ![Sagaru](https://i.ibb.co/yQdYhtq/image.png)
 
-##Introduction
 
  Website link - [Sagaru.com](https://sagasu-search-jsm.netlify.app/search)
 
